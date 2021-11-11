@@ -3,7 +3,7 @@
 
 
 import time
-from WebStreamer.bot.__init__ import StreamBot
+from WebStreamer.bot import StreamBot
 
 print('\n')
 print('------------------- Initalizing Telegram Bot -------------------')
