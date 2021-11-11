@@ -65,16 +65,16 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 ### Deploy on Heroku
 
-Press the below button to Fast deply to Heroky
+Press the below button to Fast deploy to Heroky
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploytemplate=https://github.com/NiranjanVRam/TG-FileStreamBot/tree/main)
 
 then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables.
 
 ### Host it on VPS or Locally
 
 ```sh
-git clone https://github.com/EverythingSuckz/TG-FileStreamBot
+git clone https://github.com/NiranjanVRam/TG-FileStreamBot
 cd TG-FileStreamBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
